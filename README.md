@@ -1,6 +1,6 @@
 🏠 House Price Prediction Model
 
- I initiated this project to deepen my understanding and practical application of machine learning concepts. It proved to be an enriching and intellectually rewarding experience, and it was a genuine pleasure to work on.
+ **I did this project to deepen my understanding and practical application of machine learning concepts. It proved to be an enriching and intellectually rewarding experience, and it was a genuine pleasure to work on.**
  
 This repository contains a simple House Price Prediction model implemented in Python. The project follows a structured process including data cleaning, model training using Ridge Regression, and deployment using a Flask web interface.
 
